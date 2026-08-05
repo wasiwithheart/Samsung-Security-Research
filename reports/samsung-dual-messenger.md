@@ -21,4 +21,4 @@ Independent Security analysis on Samsung One UI Dual Messenger feature and its i
 - [View PoC Screenshot](./assets/I-122714_image_poc.jpg)
 
 ## Vendor Outcome
-Samsung Mobile Security confirmed that the observed behavior strictly aligns with standard  AOSP multi user architecture speciications.
+Samsung Mobile Security confirmed that the observed behavior strictly aligns with standard  AOSP multi user architecture specifications.
