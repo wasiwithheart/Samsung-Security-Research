@@ -8,7 +8,7 @@ Independent Security analysis on Samsung One UI Dual Messenger feature and its i
 - Vendor: Samsung Mobile Security
 - Target: Samsung One UI (Dual Messenger Feature)
 - Category: Multi-User Architecture & Process Isolation
-- Reference ID: I-222714
+- Reference ID: I-22714
 - Status: Duplicate / Working as Intended
 
 ## Technical Analysis & PoC
