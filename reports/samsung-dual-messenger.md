@@ -16,5 +16,9 @@ Independent Security analysis on Samsung One UI Dual Messenger feature and its i
   2. Verified package management and data separation b/w main profile and secondary profile.
   3. Observed Process boundary isolated under standard Android Open Source Project (AOSP) multi-user framework rules.
 
+## PoC (Proof of Concept)
+- [View PoC Screenshot](./assets/I-1222714_image_poc.jpg)
+- [View PoC Video](./assets/I-1222714_video_poc.mp4)
+
 ## Vendor Outcome
 Samsung Mobile Security confirmed that the observed behavior strictly aligns with standard  AOSP multi user architecture speciications.
